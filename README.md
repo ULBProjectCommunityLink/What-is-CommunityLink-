@@ -22,7 +22,7 @@ Based on the UCL Open data ecology methodology the interconnecting legal structu
 UCL provides 
 1.	a structured approach to build Campuses/pods/hubs through the safenetwork with the initial interconnecting legal structure/constitution to create a true commercial neutral open ecology system which interlinks proprietary data systems
 2.	the organisational method to build to a Unidroit style governance outcome necessary to enable a true autonomous network free of human intervention
-3.	an AU Smart city business case and Redland smaert city CODEMAP practical start point to deliver to an existing client need/spec
+3.	an AU Smart city business case and Redland smart city CODEMAP practical start point to deliver to an existing client need/spec
 
 
 STANDARDS USED
