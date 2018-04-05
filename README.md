@@ -1,5 +1,5 @@
 # What-is-CommunityLink-
-An Open Data Ecology (ODE) which connects proprietal data for the common good
+An Open Data Ecology (ODE) which interlinks proprietal data for the common good
 
 CommunityLink (derived from "Community Access Interlink") is a proposed set of conventions and tools for communities or industry to build Open Data Ecology Campus/hubs/exchanges to enable closed loop automation product solutions across multiple stakeholders creating mutual asset pools within a decentralised autonomous network. We call these CODEMAPs (CommunityLink Open data ecology Mutual Asset Pools).
 
