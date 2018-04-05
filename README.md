@@ -2,15 +2,15 @@
 An Open Data Ecology (ODE) which connects proprietal data for the common good
 
 TABLE OF CONTENTS
-1. About CommunityLink
-2. Standards Used
-  a. Organisational Structure
-  b. ICT 
-3. CL Open Data ecology notes
-4. Project Directory
-5. Contributing to Project CommunityLink
-* Pre requisites
-* CommunityLink workflow 
+  1. About CommunityLink
+  2. Standards Used
+    a. Organisational Structure
+    b. ICT 
+  3. CL Open Data ecology notes
+  4. Project Directory
+  5. Contributing to Project CommunityLink
+  * Pre requisites
+  * CommunityLink workflow 
 
 1. ABOUT COMMUNITYLINK
 CommunityLink (derived from "Community Access Interlink") is a proposed set of conventions and tools for communities or industry to build Open Data Ecology Campus/hubs/exchanges to enable closed loop automation product solutions across multiple stakeholders creating mutual asset pools within a decentralised autonomous network.  
