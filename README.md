@@ -6,10 +6,8 @@ CommunityLink (derived from "Community Access Interlink") is a proposed set of c
 TABLE OF CONTENTS
   1. About CommunityLink
   2. Standards Used
-  
-    a. Organisational Structure
-    
-    b. ICT 
+      a. Organisational Structure
+      b. ICT 
   3. CL Open Data ecology notes
   4. Project Directory
   5. Contributing to Project CommunityLink
