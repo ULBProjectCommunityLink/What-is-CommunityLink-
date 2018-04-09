@@ -1,4 +1,4 @@
-# What-is-CommunityLink-
+#What is CommunityLink
 An Open Data Ecology model (ODE) which interlinks proprietal data for the common good
 
 CommunityLink (derived from "Community Access Interlink") is a proposed set of conventions and tools for communities or industry to build Open Data Ecology Campus/hubs/exchanges to enable closed loop automation product solutions across multiple stakeholders creating mutual asset pools within a decentralised autonomous network. We call these CODEMAPs (CommunityLink Open data ecology Mutual Asset Pools).
@@ -24,7 +24,6 @@ UCL provides
 1.	a structured approach to build Campuses/pods/hubs through the safenetwork with the initial interconnecting legal structure/constitution to create a true commercial neutral open ecology system which interlinks proprietary data systems
 2.	the organisational method to build to a Unidroit style governance outcome necessary to enable a true autonomous network free of human intervention
 3.	an AU Smart city business case and Redland smart city CODEMAP practical start point to deliver to an existing client need/spec
-
 
 STANDARDS USED
 
